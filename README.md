@@ -13,7 +13,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Toxic1239/Queen-RiasV3_?style=for-the-badge&color=gold&logo=starship)](https://github.com/Toxic1239/Queen-RiasV3_/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Toxic1239/Queen-RiasV3_?style=for-the-badge&color=green&logo=git)](https://github.com/Toxic1239/Queen-RiasV3_/network/members)
 [![Version](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge&logo=awesome-releases)](https://github.com/Toxic1239/Queen-RiasV3_/releases)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp%20Channel-Join%20Now-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb54jEH0rGiDgUkRQa0c)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp%20Channel-Join%20Now-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb659rN5q08fFoXNQx3w)
 
 </div>
 
@@ -25,7 +25,7 @@
 ---
 
 ## 📝 **Introduction**
-**QUEEN RIAS X** is a multi-device WhatsApp bot designed to enhance your WhatsApp experience with a wide range of features. Whether you're looking for entertainment, utility, or automation, QUEEN RIAS V3 has got you covered. Created by **Toxxic Boy**, this bot is packed with powerful functionalities and is easy to deploy.
+**QUEEN RIAS V3** is a multi-device WhatsApp bot designed to enhance your WhatsApp experience with a wide range of features. Whether you're looking for entertainment, utility, or automation, QUEEN RIAS V3 has got you covered. Created by **Toxxic Boy**, this bot is packed with powerful functionalities and is easy to deploy.
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### **Prerequisites**
 1. **GitHub Account**: Fork this repository to your GitHub account.
-2. **Session ID**: Generate a session ID from [here](https://session-toxxictech.zone.id/).
+2. **Session ID**: Generate a session ID from [here](https://toxxic-session3.onrender.com).
 3. **Node.js**: Ensure Node.js is installed on your system.
 
 ---
@@ -57,7 +57,7 @@ Click the button below to fork the repository:
 ### **Step 2: Get Session ID**
 Generate your session ID from the link below:
 <br>
-<a href="https://session-toxxictech.zone.id/">
+<a href="https://miku-session.onrender.com">
   <img src="https://img.shields.io/badge/Get_Session_ID-blue?style=for-the-badge&logo=opencv&logoColor=white" alt="Get Session ID">
 </a>
 
@@ -73,20 +73,19 @@ Generate your session ID from the link below:
 
 ### **1. Free Tier Deployment**
 #### **Deploy on Railway**
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com?referralCode=UJsbA0)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/new?repository=https://github.com/Toxic1239/Queen-RiasV3_)
 
 #### **Deploy on Render**
-<a href="https://render-rias-deploy.onrender.com/">
-  <img src="https://img.shields.io/badge/Deploy_on_Render-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render">
-</a>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/new?repository=https://github.com/Toxic1239/Queen-RiasV3_)
 
 #### **Deploy on Koyeb**
-[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=queen-riasv3&repository=riasadmin12%2FQueen-RiasV3&branch=main&build_command=npm+install&run_command=npm+start&instance_type=free&env%5BSESSION_ID%5D=)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Toxic1239/Queen-RiasV3_&name=queen-riasv3&env[PORT]=7860&build_command=npm%20install&run_command=node%20.)
 
-#### **Deploy on Replit**
-<a href="https://replit.com/github/Toxic1239/Queen-RiasV3_">
-  <img src="https://img.shields.io/badge/Deploy_on_Replit-red?style=for-the-badge&logo=replit&logoColor=white" alt="Deploy on Replit">
-</a>
+#### **Deploy on Replit (Testing Purposes Only) **
+[![Run on Replit](https://replit.com/badge/github/Toxic1239/Queen-RiasV3_)](https://replit.com/github/Toxic1239/Queen-RiasV3_)
+
+#### **Deploy on Heroku**
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Toxic1239/Queen-RiasV3_)
 
 ---
 
@@ -96,8 +95,8 @@ Generate your session ID from the link below:
    <a href="https://github.com/Toxic1239/Queen-RiasV3_/archive/refs/heads/main.zip">
      <img src="https://img.shields.io/badge/Download_ZIP-red?style=for-the-badge&logo=google&logoColor=white" alt="Download ZIP">
    </a>
-2. Upload the ZIP to your hosting panel.
-3. Unarchive the ZIP and move files to the root directory.
+2. Upload the ZIP to your hosting panel. [CodeNest Panel Services](https://codenest.zone.id?code=FDC1EA89)
+3. Unarchive the ZIP and move files to the root directory (../). 
 4. Start the bot and link your WhatsApp number.
 
 ---
@@ -116,14 +115,14 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/Toxic1239/Queen-RiasV3_
-cd Queen-RiasV3_
+cd Queen-RiasV3
 yarn install
 yarn start
 ```
 
 ---
 
-### **4. Codespace Deployment**
+### **4. Codespace Deployment (Don't Use Only For Testing) **
 1. Open the repository in GitHub Codespaces.
 2. Run the following commands:
    ```bash
@@ -139,20 +138,20 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 ## ⚠️ **Warning**
-- **QUEEN RIAS X** is not affiliated with WhatsApp Inc. Misuse of the bot may result in a ban from WhatsApp.
+- **QUEEN RIAS V3** is not affiliated with WhatsApp Inc. Misuse of the bot may result in a ban from WhatsApp.
 - Use this bot at your own risk. The developer is not responsible for any issues arising from its use.
 
 ---
 
 ## 💬 **Contact Developer**
 - **Telegram**: [@Toxxicn_bot](https://t.me/Toxxicn_bot)
-- **WhatsApp Channel**: [Join Here](https://whatsapp.com/channel/0029Vb54jEH0rGiDgUkRQa0c)
+- **WhatsApp Channel**: [Join Here](https://whatsapp.com/channel/0029Vb659rN5q08fFoXNQx3w)
 
 ---
 
 ## 🙏 **Credits**
-- **Toxxic Boy**: For creating and maintaining the bot.
-
+- **Toxxic Boy**: For creating and maintaining the bot
+- **My Bot Users**: For Keeping the Project Alive
 ---
 
 ## 📊 **Repo Stats**
@@ -160,13 +159,14 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-Enjoy using **QUEEN RIAS X**! If you have any questions or need assistance, feel free to reach out. 🚀
+Enjoy using **QUEEN RIAS V3**! If you have any questions or need assistance, feel free to reach out. 🚀
 
 <div align="center" style="margin-top: 40px;">
   <p>Made with ❤️ by <a href="https://github.com/Toxic1239" style="color: #ff69b4; text-decoration: none;">Toxxic Boy</a></p>
   <img src="https://komarev.com/ghpvc/?username=Toxic1239&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
 </div>
 
+<!-- Animated divider -->
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="400" height="5">
 </div>
