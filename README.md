@@ -122,7 +122,7 @@ yarn start
 
 ---
 
-### **4. Codespace Deployment (Don't Use Only For Testing) **
+### **4. Codespace Deployment (Don't Use Only For Testing)**
 1. Open the repository in GitHub Codespaces.
 2. Run the following commands:
    ```bash
