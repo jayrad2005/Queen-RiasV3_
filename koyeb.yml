@@ -3,7 +3,7 @@ services:
   - name: Rias-Gremory 
     type: web
     description: A WhatsApp bot built with Baileys
-    instance_type: nano
+    instance_type: free
     ports:
       - 3000
     routes:
