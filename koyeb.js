@@ -13,4 +13,4 @@ COPY ./root/Queen-RiasV3_
 
 RUN yarn install
 
-CMD ["yarn", "start"]
+CMD ["node", "index.js"]
